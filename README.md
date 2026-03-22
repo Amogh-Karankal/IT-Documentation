@@ -15,27 +15,27 @@ This repository contains standardized IT documentation covering common helpdesk 
 
 | Document | Description |
 |----------|-------------|
-| [What is a Helpdesk Ticket?](docs/what-is-a-ticket.md) | Understanding tickets, priorities, and SLAs |
-| [Common Issues & Quick Fixes](docs/common-issues-quick-fixes.md) | Top 10 helpdesk problems and solutions |
-| [Escalation Guide](docs/escalation-guide.md) | When and how to escalate to Tier 2/3 |
-| [New Employee IT Setup](docs/new-employee-setup.md) | Onboarding checklist |
-| [Employee Offboarding](docs/offboarding-checklist.md) | Account deactivation procedure |
-| [IT Terminology Glossary](docs/it-glossary.md) | Common terms and definitions |
+| [What is a Helpdesk Ticket?](/what-is-a-ticket.md) | Understanding tickets, priorities, and SLAs |
+| [Common Issues & Quick Fixes](/common-issues-quick-fixes.md) | Top 10 helpdesk problems and solutions |
+| [Escalation Guide](/escalation-guide.md) | When and how to escalate to Tier 2/3 |
+| [New Employee IT Setup](/new-employee-setup.md) | Onboarding checklist |
+| [Employee Offboarding](/offboarding-checklist.md) | Account deactivation procedure |
+| [IT Terminology Glossary](/it-glossary.md) | Common terms and definitions |
 
 ### For End Users
 
 | Document | Description |
 |----------|-------------|
-| [Password Reset Guide](docs/password-reset.md) | Self-service and IT-assisted resets |
-| [VPN Troubleshooting](docs/vpn-troubleshooting.md) | Remote connection issues |
-| [Email & Outlook Issues](docs/outlook-troubleshooting.md) | Common email problems |
-| [How to Submit an IT Ticket](docs/how-to-submit-ticket.md) | Getting help from IT |
+| [Password Reset Guide](/password-reset.md) | Self-service and IT-assisted resets |
+| [VPN Troubleshooting](/vpn-troubleshooting.md) | Remote connection issues |
+| [Email & Outlook Issues](/outlook-troubleshooting.md) | Common email problems |
+| [How to Submit an IT Ticket](/how-to-submit-ticket.md) | Getting help from IT |
 
 ### Visual Guides
 
 | Document | Description |
 |----------|-------------|
-| [Troubleshooting Flowchart](docs/troubleshooting-flowchart.md) | Decision tree for common issues |
+| [Troubleshooting Flowchart](/troubleshooting-flowchart.md) | Decision tree for common issues |
 
 ## 🎯 Purpose
 
